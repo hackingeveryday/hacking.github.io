@@ -12,4 +12,3 @@
 
 * [Facebook](https://www.facebook.com/moingaymotbaihack)
 * [Github](https://github.com/hackingeveryday)
-* [Po*nhub](http://po*nhub.com/)

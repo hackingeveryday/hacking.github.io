@@ -2,7 +2,7 @@
 
 Nguồn: Sinh viên An toàn thông tin 2020 - Sơ khảo (*có một chút thay đổi so với đề gốc*)
 
-[Source code](https://github.com/hacking.github.io/crypto/RSA/binomial/zozo.py)
+[Source code](https://github.com/hackingeveryday/hacking.github.io/crypto/RSA/binomial/zozo.py)
 
 ### Mô tả đề bài
 
@@ -21,4 +21,4 @@ Từ hai số `a` và `b` ta có thể tìm được khóa bí mật `(p, q)` b�
 * **Vậy `a == 2020*b % p => (a - 2020**b) % p = 0` hay `GCD(a - 2020*b, n) == p` và `q = n // p`**
   * do `a - 2020*b` và `n` cùng chia hết cho `p`
 
-[Solve](https://github.com/hacking.github.io/crypto/RSA/binomial/solve.py)
+[Solve](https://github.com/hackingeveryday/hacking.github.io/crypto/RSA/binomial/solve.py)

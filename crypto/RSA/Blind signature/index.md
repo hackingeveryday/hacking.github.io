@@ -30,7 +30,7 @@ Do message người dùng gửi lên không bị validate hay filter gì nhiều
 
 Thường chọn `k == 2`
 
-[Solve](https://github.com/hackingeveryday/hacking.github.io/blob/gh-pages/crypto/RSA/Blind%20signature/CRT.py)
+[Solve](https://github.com/hackingeveryday/hacking.github.io/blob/gh-pages/crypto/RSA/Blind%20signature/solve.py)
 
 Do tính chất công việc, có lẽ mình sẽ kết thúc series CTF này tại đây. Các thông tin khác mình sẽ thông báo trên page sau. Xin cảm ơn những người đã ủng hộ page trong thời gian qua
 
